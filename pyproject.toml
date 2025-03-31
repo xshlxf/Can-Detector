@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "latas-template-matching"
+version = "0.1.0"
+description = ""
+authors = ["Ashley Peña Nolasco <pequeash@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+opencv-python = "^4.11.0.86"
+numpy = "^2.2.3"
+scikit-image = "^0.25.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
