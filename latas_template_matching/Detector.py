@@ -1,6 +1,7 @@
 # Detector.py
 #
 # Diego Iván Martínez Escobar, 2025
+# Ashley Peña Nolasco, 2025
 #
 # Programa de Honores
 # Universidad de las Américas Puebla
