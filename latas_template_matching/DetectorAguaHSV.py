@@ -1,6 +1,8 @@
 # DetectorAguaHSV.py
 #
 # Diego Iván Martínez Escobar, 2025.
+# Ashley Peña Nolasco, 2025
+#
 # Universidad de las Américas Puebla
 #
 
